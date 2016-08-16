@@ -1,0 +1,1 @@
+For cut pieces of airstrip bdg
