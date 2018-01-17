@@ -16,3 +16,6 @@ International Journal of Emerging Technology and Advanced Engineering, Vol. 6, I
 
 Intensity Augmented ICP for 3D Laser Scanner Point Cloud Registration
 Master Thesis, Sandeep Sasidharan, IIT Kanpur 2012
+
+#Code reference
+https://www.mathworks.com/matlabcentral/fileexchange/27804-iterative-closest-point?focused=3775639&tab=function
