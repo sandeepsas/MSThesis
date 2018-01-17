@@ -1,6 +1,9 @@
 function [T R TR, TT, ER, t] = GeometricICP(q,p,iter,wr)
 
+%Copyright (c) 2012, Jakob Wilm & Hans Martin Kjer
+%All rights reserved.
 
+%Modified by Sandeep Sasidharan
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Actual implementation
 
