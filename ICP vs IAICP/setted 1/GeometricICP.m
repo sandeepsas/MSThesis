@@ -1,3 +1,10 @@
+
+%Copyright (c) 2012, Jakob Wilm & Hans Martin Kjer
+%All rights reserved.
+
+%Modified by Sandeep Sasidharan
+
+
 function [T R TR, TT, ER, t,error_SD,error_sub] = GeometricICP(q,p,iter,wr)
 
 
