@@ -1,3 +1,8 @@
+%Copyright (c) 2012, Jakob Wilm & Hans Martin Kjer
+%All rights reserved.
+
+%Modified by Sandeep Sasidharan
+
 function [TR, TT, ER, t] = PointICP(q,p,varargin)
 % Perform the Iterative Closest Point algorithm on three dimensional point
 % clouds.
